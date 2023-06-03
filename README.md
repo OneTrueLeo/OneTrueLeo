@@ -2,7 +2,7 @@
 - 👀 I’m interested in penetration testing.
 - 🌱 I’m currently studying offensive security - web application security in particular.
 - 📫 You can reach me by:
--     @Discord Lео.#5366
+-     @Discord Lео.#2023
 
 <!---
 OneTrueLeo/OneTrueLeo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
